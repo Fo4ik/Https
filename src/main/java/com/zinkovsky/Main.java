@@ -69,7 +69,6 @@ public class Main {
         if (start == -1) {
             return null;
         }
-
         return response.substring(start, finish);
     }
 }
